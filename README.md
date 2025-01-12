@@ -176,7 +176,7 @@ Dependencies:
 
 Initial work - [Oshana Kavishan](https://github.com/OshanaKavishan)
 
-- 📧 Email: supunprabodha789@gmail.com
+- 📧 Email: kavishansilva@gmail.com
 - 🔗 LinkedIn: [https://www.linkedin.com/in/oshana-kavishan-9ab10b23b/]
 
 
