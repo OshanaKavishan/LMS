@@ -151,8 +151,12 @@ String password = "your_password";
 ```
 🧩 Follows the MVC (Model-View-Controller) design pattern
 
-## 👨‍💻 Author
-Oshana Kavishan
-- 📧 kavishansilva@gmail.com
-- 🔗 [linkedin.com/in/oshana-kavishan-9ab10b23b](https://www.linkedin.com/in/oshana-kavishan-9ab10b23b/)
-- 💻 [https://github.com/OshanaKavishan](https://github.com/OshanaKavishan)
+## 🤝 Let's Work Together
+
+I'm Oshana Kavishan — passionate about building modern web and mobile applications.  
+If you're interested in working together or just want to connect, feel free to reach out!
+
+- 📧 Email: kavishansilva@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/oshana-kavishan-9ab10b23b](https://www.linkedin.com/in/oshana-kavishan-9ab10b23b)  
+- 💻 GitHub: [github.com/OshanaKavishan](https://github.com/OshanaKavishan)
+
